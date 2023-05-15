@@ -1,1 +1,2 @@
-# 2g2t
+# Estudo do Sgundo Trimestre
+Vinicius Codato Silva Santos - N34
