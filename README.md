@@ -1,2 +1,3 @@
 # Estudo do Segundo Trimestre
-Vinicius Codato Silva Santos - N34
+## Tema da Sala: Filme-(Cinema)
+Vinicius Codato Silva Santos- N°34
